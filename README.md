@@ -1,2 +1,2 @@
 # PokeMon
-An Android App for lovers of pokemon
+An Android App for pokemon lovers
